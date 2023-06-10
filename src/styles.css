@@ -32,11 +32,6 @@ form.enter-city-form {
   padding: 0 2px;
   margin-right: -5px;
 }
-.form-group .row .col-2 > input.btn.btn-primary,
-.form-group .row .col-4 > input.btn.btn-primary {
-  margin-left: 5px;
-  margin-right: 5px;
-}
 
 .form-group .row div:nth-child(2) {
   margin-right: -8px;
