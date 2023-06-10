@@ -25,7 +25,7 @@ form.enter-city-form {
   margin-right: 0px;
   padding-right: 0px;
 }
-.form-group .row .col > input.btn.btn-primary {
+.form-group .row .col-4 {
   color: #7e8286;
   background-color: #fee7a9;
   padding: 8px 25px;
@@ -35,7 +35,7 @@ form.enter-city-form {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.form-group .row .col > input.btn.btn-success {
+.form-group .row .col-3 {
   color: #ffff;
   border: 0px;
   font-family: Arial, Helvetica, sans-serif;
