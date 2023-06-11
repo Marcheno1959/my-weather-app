@@ -30,6 +30,21 @@ form.enter-city-form {
   display: flex;
   align-items: center;
   padding: 0 2px;
+}
+
+.form-group .row .col-2 {
+  margin-right: -5px;
+}
+
+.form-group .row .col-4 {
+  margin-left: -5px;
+}
+
+.form-group .row div:nth-child(2) {
+  margin-right: -8px;
+}
+
+.form-group .row div:nth-child(3) {
   margin-right: -5px;
 }
 
