@@ -40,14 +40,6 @@ form.enter-city-form {
   margin-left: -5px;
 }
 
-.form-group .row div:nth-child(2) {
-  margin-right: -8px;
-}
-
-.form-group .row div:nth-child(3) {
-  margin-right: -5px;
-}
-
 .form-group .row .col > input.btn.btn-primary {
   color: #7e8286;
   padding: 8px 25px;
